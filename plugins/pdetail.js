@@ -5,7 +5,7 @@ cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot 
 */
 
 
-const cobra = require('../events');
+const Amdi = require('../events');
 const { MessageType } = require('@adiwajshing/baileys');
 const axios = require('axios');
 const Config = require('../config');
@@ -36,7 +36,7 @@ const NOT_FOUND = "*not found -:*"
 
 if (Config.WORKTYPE == 'private') {
 
-cobra.addCommand({ pattern: 'pdetail ?(.*)', fromMe: true, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
+Amdi.addCommand({ pattern: 'pdetail ?(.*)', fromMe: true, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
 
     const pname = match[1]
 
@@ -97,7 +97,9 @@ cobra.addCommand({ pattern: 'pdetail ?(.*)', fromMe: true, usage: USAGE, desc: P
 
 if (Config.WORKTYPE == 'public') {
 
-cobra.addCommand({ pattern: 'pdetail ?(.*)', fromMe: false, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
+co
+
+Amdi.addCommand({ pattern: 'pdetail ?(.*)', fromMe: false, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
 
     const pname = match[1]
 
