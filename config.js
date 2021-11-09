@@ -19,7 +19,7 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './queenamdi.db' : proce
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 
 module.exports = {
-    VERSION: 'Queen Amdi 3.0.2v - Public Stable',
+    VERSION: 'Queen Amdi 3.1.2v - Beta Version',
     SESSION: process.env.AMDI_SESSION === undefined ? '' : process.env.AMDI_SESSION,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
