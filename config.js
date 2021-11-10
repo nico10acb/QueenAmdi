@@ -24,7 +24,7 @@ module.exports = {
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg' : process.env.ALIVE_LOGO,
-    ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? '👸💎 Hey There! I'm Online. 😙\n\n*Developer:* Black Amda\n*Customize By :*Nico\n\n*Black Amda's WhatsApp Number :* wa.me/94757405652\n*Nico's WhatsApp Number :* wa.me/94784621232\n\n*AN Tech YouTube channel :\nhttps://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n*SL Technical Tips YouTube Channel :\nhttps://www.youtube.com/SLTechnicalTips\n\nThank You For Using Queen Amdi Beta Version💞' : process.env.ALIVE_MESSAGE,
+    ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     ANTIBAD: process.env.ANTIBAD === undefined ? 'false' : process.env.ANTIBAD,
     ANTIBUG: process.env.ANTIBUG === undefined ? 'false' : process.env.ANTIBUG,
     ANTILINK: process.env.ANTI_LINK === undefined ? 'false' : process.env.ANTI_LINK, // Working in progress
