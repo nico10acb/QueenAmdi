@@ -497,8 +497,8 @@ else if (config.LANG == 'SI') {
             var esup = config.SEWSUPPORT3.split(',');                            
             if(msg.key.remoteJid.includes('-') ? esup.includes(msg.key.remoteJid.split('@')[0]) : esup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }      
-        if (config.SLSUP1 == '120363038991849185') {     
-            var esup = config.SEWSUPPORT3.split(',');                            
+        if (config.SLSUP1 == '94711176747-1632037237') {     
+            var esup = config.SLSUP1.split(',');                            
             if(msg.key.remoteJid.includes('-') ? esup.includes(msg.key.remoteJid.split('@')[0]) : esup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
         // ==================== End Blocked Chats ====================
