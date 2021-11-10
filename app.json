@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "AUTO_BIO": {
             "description": "Setup AUTO BIO feature. Adding a live clock for your WhatsApp about.",
@@ -29,7 +29,7 @@
         "HANDLERS": {
             "description": "Enter bot prefix to use commands.",
             "required": true,
-            "value": "^[.!]"
+            "value": "^[.!;]"
         },
         "CHAT_BOT": {
             "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and false to deactivate AI chat bot.",
@@ -47,7 +47,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "https://dashboard.heroku.com/account Click this link. Scroll down for the API key. Then click the Reveal button. Copy the API key and paste the API Key empty box below.",
+            "description": "https://dashboard.heroku.com/account Goto this link. Scroll down for the API key. Then click the Reveal button. Copy the API key and paste the API Key empty box below.",
             "required": true
         },
         "HEROKU_APP_NAME": {
@@ -57,12 +57,12 @@
         "SONG_TYPE": {
             "description": "Choose your .song file type.(document or audio)",
             "required": true,
-            "value": "document"
+            "value": "audio"
         },
         "CAP": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₁"
+            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ ₂₀₂₁"
         },
         "IMGBB": {
             "description": "Paste your imgbb API to change ALIVE,Welcome,Bye pictures by a command. (Visit https://imgbb.com/ and signup there. And get an API key from https://api.imgbb.com/)",
