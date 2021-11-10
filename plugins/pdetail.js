@@ -1,7 +1,5 @@
 /*
-cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot 
 coded by cobradev- sisula welgamage
-cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot cobra bot 
 */
 
 
@@ -36,7 +34,7 @@ const NOT_FOUND = "*not found -:*"
 
 if (Config.WORKTYPE == 'private') {
 
-cobra.addCommand({ pattern: 'pdetail ?(.*)', fromMe: true, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
+QueenAmdiCon.addCommand({ pattern: 'pdetail ?(.*)', fromMe: true, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
 
     const pname = match[1]
 
@@ -97,7 +95,7 @@ cobra.addCommand({ pattern: 'pdetail ?(.*)', fromMe: true, usage: USAGE, desc: P
 
 if (Config.WORKTYPE == 'public') {
 
-cobra.addCommand({ pattern: 'pdetail ?(.*)', fromMe: false, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
+QueenAmdiCon.addCommand({ pattern: 'pdetail ?(.*)', fromMe: false, usage: USAGE, desc: PHONEDE_DESC }, async (message, match) => {
 
     const pname = match[1]
 
