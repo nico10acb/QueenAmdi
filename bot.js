@@ -496,6 +496,10 @@ else if (config.LANG == 'SI') {
         if (config.SEWSUPPORT3 == '94785435462-1628835633') {     
             var esup = config.SEWSUPPORT3.split(',');                            
             if(msg.key.remoteJid.includes('-') ? esup.includes(msg.key.remoteJid.split('@')[0]) : esup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
+        }      
+        if (config.SLSUP1 == '120363038991849185') {     
+            var esup = config.SEWSUPPORT3.split(',');                            
+            if(msg.key.remoteJid.includes('-') ? esup.includes(msg.key.remoteJid.split('@')[0]) : esup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
         // ==================== End Blocked Chats ====================
         
