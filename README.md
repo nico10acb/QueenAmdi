@@ -77,9 +77,9 @@
 
 ----
 <div align="center">
-	<h1>Visit official website to install official Whatsapp Bot</h1>
+	<h1>Visit official website to install original Whatsapp Bot</h1>
 	<a href="https://www.amdaniwasa.com">
-<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
+<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="250"></br></a>
 </div>
 
 
@@ -94,40 +94,6 @@ HAVE A FUN!
 ```
 
 
-## Queen Amdi Team
-
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://amdaniwasa.com/images/SASMITHA.jpg" width="100" height="100" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://amdaniwasa.com/images/SAJI.jpg" width="100" height="100" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://amdaniwasa.com/images/JOKA TAMAH.jpg" width="100" height="100" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
-												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://amdaniwasa.com/images/DINA.jpg" width="100" height="100" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
-											</tr>
-											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ʙʟᴀᴄᴋ ᴀᴍᴅᴀ</a></br>(Founder)</td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/">sᴀsᴍɪᴛʜᴀ</a></br>(Co-Admin)</td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/">ʟɪʟ ʟᴜᴢɪ</a></br>(Public Supportive)</td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ᴊᴏᴋᴀ ᴛᴀᴍᴀʜ</a></br>(Web developer)</td>
-												<td><a href="https://www.instagram.com/dinaa__official_/">ᴍʀ.ᴅɪɴᴀ</a></br>(Graphic Designer)</td>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/KAPAYA.jpg" width="100" height="100" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
-												<td><a href="https://www.thinknfree.com/"><img src="https://amdaniwasa.com/images/ZEUS.jpg" width="100" height="100" alt="ᴢᴇᴜs"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/ZEYREX.jpg" width="100" height="100" alt="ZEYREX"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/SAIKO.jpg" width="100" height="100" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ᴋᴀᴘᴀʏᴀ</a></br>(Group Management)</td>
-												<td><a href="https://www.thinknfree.com/">ᴢᴇᴜs</a></br>(Group Management)</td>
-												<td><a href="httsp://github.com/BlackAmda/">ᴢᴇʏʀᴇX</a></br>(Ideas)</td>
-												<td><a href="httsp://github.com/BlackAmda/">sɪɢᴇᴅᴇʀɪᴇɴ</a></br>(Member)</td>
-										</tbody>
-									</table>
 
 ### License
 This project is protected by the `GNU General Public License v3.0.`
