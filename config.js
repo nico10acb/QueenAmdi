@@ -22,7 +22,6 @@ module.exports = {
     VERSION: 'Queen Amdi 3.1.2v - Beta Version',
     SESSION: process.env.AMDI_SESSION === undefined ? '' : process.env.AMDI_SESSION,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
-    OWNER: process.env.OWNER === undefined ? 'NICO' : process.env.OWNER,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg' : process.env.ALIVE_LOGO,
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
