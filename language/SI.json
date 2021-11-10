@@ -94,7 +94,7 @@
             "PERCENTAGE": "```සියයට ගණන```",
             "DYNO_LEFT": "```ඉතිරි```",
             "SETVAR_DESC": "Set heroku config var",
-            "SET_SUCCESS": "සාර්ථක ලෙස ```{} ➜ {}``` සකසා ඇත",
+            "SET_SUCCESS": "සාර්ථකව  ```{} ➜ {}``` ලෙස සකසා ඇත",
             "KEY_VAL_MISSING": "```Either Key or Value is missing```",
             "INVALID": "```❌ Invalid key=value format```",
             "GETVAR_DESC": "Get heroku config var",
