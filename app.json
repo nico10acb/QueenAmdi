@@ -20,10 +20,6 @@
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
             "required": true,
             "value": "SI"
-        "OWNER": {
-            "description": "Enter OWNER Name",
-            "required": true,
-            "value": "NICO"
         },
         "AUTO_BIO": {
             "description": "Setup AUTO BIO feature. Adding a live clock for your WhatsApp about.",
