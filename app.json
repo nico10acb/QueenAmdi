@@ -151,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
             "required": false,
-            "value": "👸💎 Hey There! I'm Online. 😙\n\n*Developer:* Black Amda\n*Customize By :*Nico\n\n*Black Amda's WhatsApp Number :* wa.me/94757405652\n*Nico's WhatsApp Number :* wa.me/94784621232\n\n*AN Tech YouTube channel :\nhttps://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n*SL Technical Tips YouTube Channel :\nhttps://www.youtube.com/SLTechnicalTips\n\nThank You For Using Queen Amdi Beta Version💞"
+            "value": "👸💎 Hey There! I'm Online. 😙\n\n*Developer:* Black Amda\n*Customize By :*Nico\n\n*Black Amda's WhatsApp Number :*\n wa.me/94757405652\n\n*Nico's WhatsApp Number :*\n wa.me/94784621232\n\n\n*AN Tech YouTube channel :\nhttps://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n*SL Technical Tips YouTube Channel :\nhttps://www.youtube.com/SLTechnicalTips\n\nThank You For Using Queen Amdi Beta Version💞"
         },
         "BAN_MESSAGE": {
             "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
