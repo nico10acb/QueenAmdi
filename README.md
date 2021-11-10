@@ -91,12 +91,6 @@ Usage is entirely the responsibility of the user. The operating system is not re
 HAVE A FUN!
 ```
 
-## Visit our official website to install the Whatsapp Bot :
-QR Code generator and full instructions available there.
-<div>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
-</div>
 
 ## Queen Amdi Team
 
