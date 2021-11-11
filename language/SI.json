@@ -424,7 +424,7 @@
             "SPAM_DESC": "This not available.\n⌨️ Example: .spam test",
             "NEED_WORD": "*!!!*",
             "STOP_SPAMDESC": "Not available.",
-            "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*"
+            "STOP_SPAM": "✅Spam (Boom Text) සාර්ථකව නවතා ඇත. කරුණාකර මොහොතක් රැදීසිටින්න..."
         },
         "carbon": {
             "CARBON_DESC": "ඔබ mention කරන text එක carbon.sh මඟින් carbon image කරයි.",
