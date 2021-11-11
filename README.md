@@ -1,7 +1,7 @@
 <div align="center">
 	
 ### Only Personal Use....💎....
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/qDf1zK5/256339758-271156688284509-3494888063624309668-n.jpg" width="300" height="300">
   <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
 </div>
 <p align="center">
