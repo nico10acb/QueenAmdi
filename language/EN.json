@@ -275,7 +275,7 @@
             "ALIVE_DESC": "Check bot online or not",
             "SYSD_DESC": "System properties.",
             "BOT_V": "Check version of bot.",
-            "version": "Queen Amdi 3.0.3v - By Nico",
+            "version": "Queen Amdi 3.0.1v - By Nico",
             "RULE_DESC": "Shows setted rules by Group Admins",
             "rules": "*There is no rules setted by Admins.*"
         },
