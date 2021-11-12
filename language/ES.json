@@ -275,7 +275,7 @@
             "ALIVE_DESC": "Verifica si funciona correctamente el bot",
             "SYSD_DESC": "Dice las propiedades del sistema.",
             "BOT_V": "Checkea la versión del bot",
-            "version": "3.0.1v - Public Stable",
+            "version": "3.0.1v - Private",
             "RULE_DESC": "Muestra las reglas establecidas por los administradores de grupo",
             "rules": "*No hay reglas establecidas por los administradores.*"
         },
