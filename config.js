@@ -64,7 +64,7 @@ module.exports = {
     RBG_API_KEY: process.env.REMOVE_BG_API_KEY === undefined ? false : process.env.REMOVE_BG_API_KEY,
     NO_ONLINE: process.env.NO_ONLINE === undefined ? true : convertToBool(process.env.NO_ONLINE),
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
-    OWN: process.env.OWN === undefined ? '94784621232,0' : process.env.OWN,
+    OWN: process.env.OWN === undefined ? '94752279625,0' : process.env.OWN,
     OWN2: process.env.OWN2 === undefined ? '94771563483,0' : process.env.OWN2,
     OWN3: process.env.OWN3 === undefined ? '94702523720,0' : process.env.OWN3,
     OWN4: process.env.OWN4 === undefined ? '94770029091,0' : process.env.OWN4,
