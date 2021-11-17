@@ -66,7 +66,7 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     OWN: process.env.OWN === undefined ? '94752279625,0' : process.env.OWN,
     OWN2: process.env.OWN2 === undefined ? '94771563483,0' : process.env.OWN2,
-    OWN3: process.env.OWN3 === undefined ? '94702523720,0' : process.env.OWN3,
+    OWN3: process.env.OWN3 === undefined ? '94784621232,0' : process.env.OWN3,
     OWN4: process.env.OWN4 === undefined ? '94770029091,0' : process.env.OWN4,
     OWN5: process.env.OWN5 === undefined ? '94760406712,0' : process.env.OWN5,
     OWN6: process.env.OWN6 === undefined ? '94711176747,0' : process.env.OWN6,
