@@ -26,7 +26,7 @@ if (Config.WORKTYPE == 'private') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```👸💎 Hey There! I'm Online now. 😙```\n\n*Developer:* ```Black Amda```\n\n*WhatsApp :* wa.me/94757405652\n\n*Youtube channel :* https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n```Thank You For Using Queen Amdi💞```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "👸💎 Hey There! I'm Online. 😙\n\n*Developer:* Black Amda\n*Customize By :*Nico\n\n*Black Amda's WhatsApp Number :*\n wa.me/94757405652\n\n*Nico's WhatsApp Number :*\n wa.me/94784621232\n\n\n*AN Tech YouTube channel :\nhttps://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n*SL Technical Tips YouTube Channel :\nhttps://www.youtube.com/SLTechnicalTips\n\nThank You For Using Queen Amdi By Nico💞"})
 
     }
     else {
@@ -64,7 +64,7 @@ else if (Config.WORKTYPE == 'public') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```👸💎 Hey There! I'm Online now. 😙```\n\n*Developer:* ```Black Amda```\n\n*WhatsApp :* wa.me/94757405652\n\n*Youtube channel :* https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n```Thank You For Using Queen Amdi💞```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "👸💎 Hey There! I'm Online. 😙\n\n*Developer:* Black Amda\n*Customize By :*Nico\n\n*Black Amda's WhatsApp Number :*\n wa.me/94757405652\n\n*Nico's WhatsApp Number :*\n wa.me/94784621232\n\n\n*AN Tech YouTube channel :\nhttps://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ\n\n*SL Technical Tips YouTube Channel :\nhttps://www.youtube.com/SLTechnicalTips\n\nThank You For Using Queen Amdi By Nico💞"})
 
     }
     else {
